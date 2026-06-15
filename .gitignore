@@ -1,0 +1,9 @@
+node_modules/
+client/dist/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
