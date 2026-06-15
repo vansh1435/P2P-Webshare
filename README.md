@@ -4,6 +4,10 @@ Direct browser-to-browser file transfer with WebRTC data channels, React, Node.j
 
 The signaling server creates rooms and relays WebRTC offer, answer, and ICE messages. It never receives the file payload. File bytes move only across the WebRTC data channel between the sender and receiver browsers.
 
+## Deployement links
+- Backend in Render: https://p2p-webshare-ndd4.onrender.com/
+- Fronted in Vercel: https://p2-p-webshare-9514xnptu-vansh1435s-projects.vercel.app/
+
 ## Features
 
 - Drag-and-drop file selection with a 50 MB MVP limit.
